@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import yfinance as yf
 
+st.set_page_config(layout="wide")
 
 st.markdown("<h1 style='text-align: center; color: white; font-size:130px;'>Stocks</h1>", unsafe_allow_html=True)
 st.markdown("<h3 style='text-align: center; color: red;'>Post Covid</h3>", unsafe_allow_html=True)
