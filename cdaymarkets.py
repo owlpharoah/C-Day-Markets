@@ -22,7 +22,7 @@ st.markdown(
 
 st.markdown("<h1 style='text-align: center; color: #FFD700; font-size:130px;'>C-Day Markets</h1>", unsafe_allow_html=True)
 st.markdown("<h3 style='text-align: center; color: #EAEAEA;'>Stocks Post Covid</h3>", unsafe_allow_html=True)
-st.markdown("<h6 style='text-align: center; color: #ADD8E6;'>(March 3, 2021)</h6>", unsafe_allow_html=True)
+st.markdown("<h6 style='text-align: center; color: #ADD8E6;'>(March 11, 2020)</h6>", unsafe_allow_html=True)
 st.divider()
 
 c1,c2,c3,c4= st.columns(4,border=True,vertical_alignment="top")
